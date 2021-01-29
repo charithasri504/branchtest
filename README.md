@@ -7,6 +7,9 @@
 
 2.two
 # ordered list 
-1.one
-2.four
-3.three
+*one
+*four
+*three
+
+# bold 
+*has
