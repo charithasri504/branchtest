@@ -13,5 +13,5 @@
 
 # bold 
 *has
-  #display it in italic
+  # display it in italic
   this is "jithu"
